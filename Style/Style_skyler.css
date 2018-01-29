@@ -1,0 +1,15 @@
+p {
+    
+    background-color: lightskyblue;
+}
+
+h1 {
+    border-width: medium;
+    border-bottom-style: dashed;
+}
+
+body {
+    background: linear-gradient(to bottom right, aqua, blue);
+    width: auto;
+    height: 100%;
+}
