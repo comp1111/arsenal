@@ -1,0 +1,23 @@
+html {
+	height: 100%;
+	background: linear-gradient(#EDC0AF, #ED9C8A); 
+	}
+	
+h1 { 
+	text-align: center;
+}
+
+img { 
+	display:block; 
+	max-width: 200px; 
+	width: auto; 
+	height: auto; 
+	margin-right: auto; 
+	margin-left: auto;
+}
+
+#logo { 
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+}
