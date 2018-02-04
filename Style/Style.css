@@ -39,6 +39,10 @@ div#container {
 h1, h2, div>a {
     padding-left:  30px;
 }
+h1 {
+    width: 100%;
+    text-align: center;
+}
 
 ul>li {
     list-style-type: none;
