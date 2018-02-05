@@ -1,0 +1,29 @@
+body
+{
+background-image : url(https://78.media.tumblr.com/45baec53191971ec08c830217b64a3f0/tumblr_inline_mwzwgn4NF61r3qhpo.gif);
+}
+
+.person
+{
+height : auto;
+width : auto;
+max-height : 300pt;
+max-width : 300pt;
+border : 5pt solid black;
+display : block;
+margin-left : auto;
+margin-right : auto;
+}
+
+h1
+{
+text-align : center;
+border : 5pt dashed black;
+}
+
+#bio
+{
+border : 10pt ridge #01793d;
+background-color : #e1fff4;
+text-align : center;
+}

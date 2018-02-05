@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Kelly+Slab');
+
+body{
+  background-image: url(../images/Sunset_by_LF.jpg);
+  background-size: 100%;
+  color: #ffffff;
+}
+
+.lewisfont{
+  font-family: 'Kelly Slab', cursive;
+  font-size: 15pt;
+}
+
+img.person {
+    width: 120px;
+    float:  left;
+    padding-left:  30px;
+    padding-right:  30px;
+}
+
+div#bio {
+    width:  80%;
+    padding-left:  30px;
+}
+
+div#logo {
+    padding: 15px;
+    margin: 20px auto 0px auto;
+    text-align: center;
+}
+
+div#container {
+	background-color: #3B74CA;
+	min-width:850px;
+	margin-left: auto;
+	margin-right: auto;
+	min-height: 300px;
+	margin: 0 auto -4em;
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%; 
+    padding-bottom: 50px;
+}
+
