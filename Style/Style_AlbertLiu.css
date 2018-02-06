@@ -1,6 +1,6 @@
 body {
 	font-family: Segoe UI, arial, sans-serif;
-	background-color:  #27B2DA;
+	background-color: #3468bc;
 	color: #ffffff;
 }
 
@@ -23,7 +23,7 @@ div#logo {
 }
 
 div#container {
-	background-color: silver;
+	background-color: #99b2db;
 	min-width:850px;
 	margin-left: auto;
 	margin-right: auto;
@@ -35,9 +35,21 @@ div#container {
 	width: 80%; 
     padding-bottom: 50px;
 }
-
+div#navbar {
+    padding: 0px;
+    margin: 0px;
+    background-color: #c3d9e0;
+}
+#navbar > a {
+    color: white;
+}
 h1, h2, div>a {
     padding-left:  30px;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
 }
 
 ul>li {
@@ -53,4 +65,3 @@ a {
 img {border:  0;}
 
 a img {outline:  none;}
-
